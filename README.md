@@ -12,6 +12,13 @@ This repository contains academic publications exploring stateful AI systems tha
 
 ---
 
+## Publications (2026)
+
+* **[Presence Engine: Deterministic Identity at 0.007ms Latency](papers/2026/PresenceEngine_Deterministic_Identity_TSmith_19101284.pdf)**
+  * [cite_start]*Focus*: Logic-over-Model (LOM) substrate, deterministic AI identity, and sub-10µs latency[cite: 1, 8, 55].
+  * [cite_start]*Status*: Patents Pending (U.S. 72405179 | U.S. 72404840)[cite: 5].
+  * [cite_start]*DOI*: [10.5281/zenodo.19101284](https://zenodo.org/records/19101284)[cite: 4].
+
 ## Publications (2025)
 
 ### Core Architecture

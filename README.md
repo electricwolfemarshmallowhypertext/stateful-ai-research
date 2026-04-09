@@ -14,10 +14,15 @@ This repository contains academic publications exploring stateful AI systems tha
 
 ## Publications (2026)
 
-**[Presence Engine: Deterministic Identity at 0.007ms Latency](papers/2026/PresenceEngine_Deterministic_Identity_TSmith_19101284.pdf)**
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19101284.svg)](https://doi.org/10.5281/zenodo.19101284)
+**[Presence Engine: Deterministic Identity at 0.007ms Latency]**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19101284.svg)](https://doi.org/10.5281/zenodo.19101284)
+*Technical Report | March 18, 2026*
 * **Focus**: Logic-over-Model (LOM) substrate, deterministic AI identity, and sub-10µs latency.
 * *Status*: Patents Pending (U.S. 72405179 | U.S. 72404840).
+
+Introduces the Logic-over-Model (LOM) substrate, a host-native layer that decouples identity governance from probabilistic inference. Benchmarks demonstrate 0.007ms warm-path mean latency and 100% integrity in deterministic vetoes, proving that structured governance can be mathematically free.
+
+[Full Text](papers/2026/PresenceEngine_Deterministic_Identity_TSmith_19101284.pdf)
 
 ## Publications (2025)
 

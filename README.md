@@ -15,7 +15,7 @@ This repository contains academic publications exploring stateful AI systems tha
 ## Publications (2026)
 
 **Presence Engine™ v1.1 Cache-to-Cache State Transfer for Persistent Identity in Stateful AI Systems**  
-[![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.20382.70725-blue.svg)](https://zenodo.org/records/19487418)
+[![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.20382.70725-blue.svg)](https://zenodo.org/records/19487418)  
 *Technical Report | April 09, 2026*
 * **Focus**: Cache-to-cache (C2C) state transfer protocol, three-layer memory architecture, and sovereignty gate enforcement.
 * *Status*: Patents Pending (U.S. 72405179 | U.S. 72404840).

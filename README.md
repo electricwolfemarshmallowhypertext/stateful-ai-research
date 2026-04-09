@@ -14,9 +14,15 @@ This repository contains academic publications exploring stateful AI systems tha
 
 ## Publications (2026)
 
+**[Presence Engine™ v1.1 Cache-to-Cache State Transfer for Persistent Identity in Stateful AI Systems]**  
+[![DOI](https://zenodo.org/badge/DOI/10.13140/RG.2.2.20382.70725.svg)](https://zenodo.org/records/19487418)  
+*Technical Report | April 09, 2026*
+* **Focus**: Cache-to-cache (C2C) state transfer protocol, three-layer memory architecture, and sovereignty gate enforcement.
+* *Status*: Patents Pending (U.S. 72405179 | U.S. 72404840).
+
 **[Presence Engine: Deterministic Identity at 0.007ms Latency]**  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19101284.svg)](https://doi.org/10.5281/zenodo.19101284)  
-*Technical Report | March 18, 2026*
+*Results Report | March 18, 2026*
 * **Focus**: Logic-over-Model (LOM) substrate, deterministic AI identity, and sub-10µs latency.
 * *Status*: Patents Pending (U.S. 72405179 | U.S. 72404840).
 

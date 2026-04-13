@@ -14,7 +14,7 @@ This repository contains academic publications exploring stateful AI systems tha
 
 ## Publications (2026)
 
-**Governance as Substrate: Engineering Patterns for Resilient Collective Systems**
+**Governance as Substrate: Engineering Patterns for Resilient Collective Systems**  
 [![DOI](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.17119.01448-blue.svg)](https://doi.org/10.13140/RG.2.2.17119.01448)
 *Position Paper | April 13, 2026*
 * **Focus**: Governance substrate framework, four substrate properties (legibility, plasticity, friction coherence, accountability topology), eight engineering patterns for resilient collective systems, and applied case study of the UK Post Office Horizon scandal as canonical substrate collapse.

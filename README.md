@@ -1,6 +1,6 @@
 # Stateful AI Research
 
-Research publications on stateful AI architectures, persistent identity systems, and continuity frameworks for LLMs.
+Research publications on deterministic stateful AI architectures, persistent identity systems, and continuity frameworks for LLMs.
 
 ## About
 
@@ -14,6 +14,12 @@ This repository contains academic publications exploring stateful AI systems tha
 
 ## Publications (2026)
 
+**Governance as Substrate: Engineering Patterns for Resilient Collective Systems**
+[![DOI](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.17119.01448-blue.svg)](https://doi.org/10.13140/RG.2.2.17119.01448)
+*Position Paper | April 13, 2026*
+* **Focus**: Governance substrate framework, four substrate properties (legibility, plasticity, friction coherence, accountability topology), eight engineering patterns for resilient collective systems, and applied case study of the UK Post Office Horizon scandal as canonical substrate collapse.
+* *Status*: Published. CC BY-NC-SA 4.0.
+
 **Presence Engine™ v1.1 Cache-to-Cache State Transfer for Persistent Identity in Stateful AI Systems**  
 [![DOI](https://img.shields.io/badge/DOI-10.13140/RG.2.2.20382.70725-blue.svg)](https://zenodo.org/records/19487418)  
 *Technical Report | April 09, 2026*
@@ -21,7 +27,7 @@ This repository contains academic publications exploring stateful AI systems tha
 * *Status*: Patents Pending (U.S. 72405179 | U.S. 72404840).
 
 **Presence Engine: Deterministic Identity at 0.007ms Latency**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19101284.svg)](https://doi.org/10.5281/zenodo.19101284)  
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19101284-blue.svg)](https://doi.org/10.5281/zenodo.19101284)  
 *Results Report | March 18, 2026*
 * **Focus**: Logic-over-Model (LOM) substrate, deterministic AI identity, and sub-10µs latency.
 * *Status*: Patents Pending (U.S. 72405179 | U.S. 72404840).
@@ -35,7 +41,7 @@ Introduces the Logic-over-Model (LOM) substrate, a host-native layer that decoup
 ### Core Architecture
 
 **Stateful Reasoning Runtimes: Architectural Patterns for Identity Persistence Over Stateless LLM APIs**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14217280.svg)](https://doi.org/10.5281/zenodo.14217280)  
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14217280-blue.svg)](https://doi.org/10.5281/zenodo.14217280)  
 *Conference Paper | November 28, 2025*
 
 Introduces architectural taxonomy for AI state: conversational, associative, and dispositional. Demonstrates that dispositional state is required for identity-preserving applications such as therapeutic AI, tutoring systems, and autonomous agents.
@@ -45,7 +51,7 @@ Introduces architectural taxonomy for AI state: conversational, associative, and
 ---
 
 **Presence Engine™ Living Thesis: Building Human-Centric AIX™**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17280692.svg)](https://doi.org/10.5281/zenodo.17280692)  
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17280692-blue.svg)](https://doi.org/10.5281/zenodo.17280692)  
 *Thesis | October 1, 2025 (Version 3.0)*
 
 Foundational framework for privacy-first, personality-adaptive AI systems maintaining behavioral continuity and supporting human cognitive development. Grounded in social learning theory, critical thinking dispositions research, and OCEAN/HEXACO personality frameworks.
@@ -60,7 +66,7 @@ Foundational framework for privacy-first, personality-adaptive AI systems mainta
 ### Technical Implementation
 
 **Human-Centric AIX™ Stack: Presence Engine™ and the C³ Model**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14199280.svg)](https://doi.org/10.5281/zenodo.14199280)  
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14199280-blue.svg)](https://doi.org/10.5281/zenodo.14199280)  
 *Technical Note | November 20, 2025 (Version 2.0)*
 
 Introduces C³ Model (Context Capture, Coherence, and Continuity): five-layer recursive cognition loop enabling persistent identity, emotional coherence, and relational continuity. Includes hybrid dispositional modeling using OCEAN/HEXACO frameworks with identity regulation capabilities.
@@ -70,7 +76,7 @@ Introduces C³ Model (Context Capture, Coherence, and Continuity): five-layer re
 ---
 
 **Domain-Calibrated Trust in Stateful AI Systems**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14193280.svg)](https://doi.org/10.5281/zenodo.14193280)  
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14193280-blue.svg)](https://doi.org/10.5281/zenodo.14193280)  
 *Technical Note | November 13, 2025*
 
 Architecture for dynamic, domain-calibrated trust through: (1) Cache-to-Cache state persistence with cryptographic integrity, (2) causal reasoning via DAGs, (3) dispositional metrics tracking critical thinking development longitudinally.
@@ -82,7 +88,7 @@ Architecture for dynamic, domain-calibrated trust through: (1) Cache-to-Cache st
 ### Safety & Alignment
 
 **Agent Goal Drift in Stateful Systems: Detection, Constraints, and Circuit-Level Governance**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14209280.svg)](https://doi.org/10.5281/zenodo.14209280)  
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14209280-blue.svg)](https://doi.org/10.5281/zenodo.14209280)  
 *Technical Note | November 21, 2025*
 
 Formalizes goal drift detection in autonomous stateful agents. Proposes multi-layer drift detection via dispositional regression, causal graph analysis, C2C coherence testing, and cross-domain behavioral monitoring with operational thresholds and three-tier alert escalation.
@@ -92,7 +98,7 @@ Formalizes goal drift detection in autonomous stateful agents. Proposes multi-la
 ---
 
 **Dignity-First Artificial Intelligence: Privacy, Ethics, and Human Agency in Stateful Systems**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14205201.svg)](https://doi.org/10.5281/zenodo.14205201)  
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14205201-blue.svg)](https://doi.org/10.5281/zenodo.14205201)  
 *Technical Note | November 25, 2025*
 
 Formalizes dignity-first architecture establishing privacy, ethics, and human agency as computational constraints. Identifies three mechanisms of dignity erosion: coercion through personalization, transparency violation, and agency displacement. Includes working Python implementation of Anti-Coercion Detector.
@@ -102,7 +108,7 @@ Formalizes dignity-first architecture establishing privacy, ethics, and human ag
 ---
 
 **Why Stateful AI Fails Without Ethical Guardrails**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14182823.svg)](https://doi.org/10.5281/zenodo.14182823)  
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14182823-blue.svg)](https://doi.org/10.5281/zenodo.14182823)  
 *Preprint | October 28, 2025*
 
 Identifies three architectural failure modes in stateful AI: persistence exploitation, data asymmetry extraction, and identity capture. Proposes five-principle de-risking architecture including architectural consent, user-controlled visibility, temporal data decay, manipulation detection, and independent audit trails.
@@ -114,7 +120,7 @@ Identifies three architectural failure modes in stateful AI: persistence exploit
 ### Supporting Research
 
 **Stateful Intelligence: Engineering Trust, Continuity, and Dignity in Human-AI Experiences**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14170201.svg)](https://doi.org/10.5281/zenodo.14170201)  
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14170201-blue.svg)](https://doi.org/10.5281/zenodo.14170201)  
 *Preprint | October 24, 2025*
 
 Technical architecture specifications for local-first processing, personality-adaptive interfaces, and ethical safeguards. Includes 12-month validation methodology and competitive positioning analysis.
@@ -124,7 +130,7 @@ Technical architecture specifications for local-first processing, personality-ad
 ---
 
 **Introspective Awareness and Continuity Architecture**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14165413.svg)](https://doi.org/10.5281/zenodo.14165413)  
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14165413-blue.svg)](https://doi.org/10.5281/zenodo.14165413)  
 *Technical Brief | October 30, 2025*
 
 Analyzes engineering implications of Anthropic's introspection research demonstrating Claude models can monitor internal states with 20% reliability. Argues measurable introspective awareness necessitates continuity architecture as infrastructure.
